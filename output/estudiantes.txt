@@ -1,0 +1,4 @@
+diego 10 22
+manuel 11 7
+diego 11 18
+sofia 12 19
